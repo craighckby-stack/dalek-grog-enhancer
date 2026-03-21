@@ -6,6 +6,12 @@ A complete toolkit for autonomous code evolution. Fork this repo, configure your
 
 ---
 
+## 🎯 See It In Action
+
+**[Dalek-Grog](https://github.com/craighckby-stack/Dalek-Grog)** - This repo was processed by the evolution engine. Check `evolution_outputs/` to see what happened to the documentation files when they were evolved into code.
+
+---
+
 ## What's Included
 
 | Component | Description |
